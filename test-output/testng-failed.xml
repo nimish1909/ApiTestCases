@@ -5,7 +5,8 @@
     <classes>
       <class name="Com.json_server.test.Createdata">
         <methods>
-          <include name="createResource"/>
+          <include name="getCustomerDetails"/>
+          <include name="getCustomerPhoneDetails"/>
         </methods>
       </class> <!-- Com.json_server.test.Createdata -->
     </classes>
